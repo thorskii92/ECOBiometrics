@@ -1,0 +1,62 @@
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.exe.config
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.exe
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.pdb
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.frmBiometrics.resources
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.Properties.Resources.resources
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.exe
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.pdb
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\DPFPDevNET.dll
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\DPFPEngNET.dll
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\DPFPGuiNET.dll
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\DPFPShrNET.dll
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\DPFPVerNET.dll
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\MySql.Data.dll
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\Joshua\Desktop\ECO POTANGINA\BiometricsNew\BiometricsNew\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.exe.config
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.exe
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.pdb
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\DPFPDevNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\DPFPEngNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\DPFPGuiNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\DPFPShrNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\DPFPVerNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\MySql.Data.dll
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\DPFPCtlXWrapperNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\DPFPCtlXTypeLibNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\DPFPShrXTypeLibNET.dll
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\MySql.Data.xml
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.frmBiometrics.resources
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.exe
+C:\Users\Lenovo\Desktop\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.pdb
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.exe.config
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.exe
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.pdb
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\MySql.Data.dll
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\Google.Protobuf.dll
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\bin\Debug\MySql.Data.xml
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.csprojResolveAssemblyReference.cache
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.frmBiometrics.resources
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.Properties.Resources.resources
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.csproj.GenerateResource.Cache
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.exe
+F:\Jun\ECOSOL\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.pdb
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.exe.config
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.exe
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\bin\Debug\BiometricsNew.pdb
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\bin\Debug\MySql.Data.dll
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\bin\Debug\MySql.Data.xml
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.frmBiometrics.resources
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.Properties.Resources.resources
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.csproj.GenerateResource.Cache
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.exe
+D:\PROGRAMMING\ECO PROJECT\BiometricsNew\BiometricsNew\obj\Debug\BiometricsNew.pdb
